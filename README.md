@@ -1,6 +1,7 @@
 # Objetivo Geral
 - Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.
 - Este reposiório foi cirado para estudos de lógica e estudos de Python.
+- Incluimos uma versão 2 onde foi implmentado funções de criação de conta com dados pessoais e outras informações.
 
 # Desafio
 - Fomos contratados por um grande banco para desenvolver o seu novo sistema. Esse banco deseja modernizar suas operações e para isso escolheu a linguagem Python. Para a primeira versão do sistema devemos implementar apenas 3 operações: depósito, saque e extrato.
